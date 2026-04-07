@@ -20,4 +20,4 @@ As an analyst, I transformed this raw administrative log into a strategic roadma
 2. Competency Compliance (The Certification Gap)
 - The Data: "Assessment Result", "Avg 3 Th", and "Talent Cluster"
 - The Story: Using "Avg 3 Th" (3-year average performance) against the "Talent Cluster" (Challenging Talent, Early Talent, Emerging Performers, 
-  High Flyer, High Performer, High Potential, Key Performer, Not Yet, Semi Potential
+  High Flyer, High Performer, High Potential, Key Performer, Not Yet, Semi Potential, Solid Performers)
