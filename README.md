@@ -3,4 +3,6 @@ Talent Management Project
 
 Pertamina Patra Niaga plays a role as a Commercial & Trading Subholding of PT Pertamina (Persero). As a part of its corporate transformation, PT Pertamina Persero is undertaking a Downstream Business Integration to strengthen more efficient and integrated national energy management by transforming its business through the formation of Downstream Subholding
 
+As of February 1, 2026, Pertamina has consolidated its capabilities and strengthened the supply chain all the way to consumers by merging the three subholdings operating in Pertamina's downstream business: the Refinery & Petrochemical Subholding (PT Kilang Pertamina Internasional), the Commercial & Trading Subholding (PT Pertamina Patra Niaga), and the Integrated Marine & Logistics Subholding (PT Pertamina International Shipping) into a single Subholding, namely Downstream Subholding, under PT Pertamina Patra Niaga 
+
 ## 1 Employee / Talent Qualification
