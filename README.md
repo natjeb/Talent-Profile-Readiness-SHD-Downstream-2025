@@ -5,6 +5,11 @@ Pertamina Patra Niaga plays a role as a Commercial & Trading Subholding of PT Pe
 
 As of February 1, 2026, Pertamina has consolidated its capabilities and strengthened the supply chain all the way to consumers by merging the three subholdings operating in Pertamina's downstream business: the Refinery & Petrochemical Subholding (PT Kilang Pertamina Internasional), the Commercial & Trading Subholding (PT Pertamina Patra Niaga), and the Integrated Marine & Logistics Subholding (PT Pertamina International Shipping) into a single Subholding, namely Downstream Subholding, under PT Pertamina Patra Niaga 
 
-## 1 Employee / Talent Qualification
-### The Data Story
-This Dataset represent a snapshot of executive and leadership "health" within a large organization. It tracks the intersection of Technical Competence (TOEIC, CISI), Strategic Assessment (PBest, SLC), and Demographic Risk (Retirement/Tgl Pensiun)
+## 1 Employee / Talent Qualification : Human Capital Readiness & Succession Intelligence
+### 📊 The Data Story
+This Dataset represent a snapshot of executive and leadership "health" within a large organization. It tracks the intersection of Technical Competence (TOEIC, CISI), Strategic Assessment (PBest, SLC), and Demographic Risk (Retirement Date).
+
+As a analyst, I transformed this raw administrative log into a strategic roadmap for succession planning.
+
+
+### 🔍 Key Insights & Storytelling Pillars 
