@@ -15,3 +15,4 @@ As a analyst, I transformed this raw administrative log into a strategic roadmap
 ### 🔍 Key Insights & Storytelling Pillars 
 1. The Retirement Cliff (Urgencuy Analysis)
 - the Data: "Tgl Pensiun" and "Status" Columns 
+- the Story: By calculating the gap between the current date and Tgl Pensiun, we can identify ciritcal leadership gaps. For instance, if the Direktur Utama or Key Commisiary are within a 2-year retirement window, the "Talent Cluster" adn "Assessment Rrsult
