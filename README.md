@@ -13,3 +13,5 @@ As a analyst, I transformed this raw administrative log into a strategic roadmap
 
 
 ### 🔍 Key Insights & Storytelling Pillars 
+1. The Retirement Cliff (Urgencuy Analysis)
+- the Data: "Tgl Pensiun" and "Status" Columns 
