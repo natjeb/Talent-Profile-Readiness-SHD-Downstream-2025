@@ -5,14 +5,19 @@ Pertamina Patra Niaga plays a role as a Commercial & Trading Subholding of PT Pe
 
 As of February 1, 2026, Pertamina has consolidated its capabilities and strengthened the supply chain all the way to consumers by merging the three subholdings operating in Pertamina's downstream business: the Refinery & Petrochemical Subholding (PT Kilang Pertamina Internasional), the Commercial & Trading Subholding (PT Pertamina Patra Niaga), and the Integrated Marine & Logistics Subholding (PT Pertamina International Shipping) into a single Subholding, namely Downstream Subholding, under PT Pertamina Patra Niaga 
 
-## 1 Employee / Talent Qualification : Human Capital Readiness & Succession Intelligence
+## 1 Employee / Talent Qualification: Human Capital Readiness & Succession Intelligence
 ### 📊 The Data Story
-This Dataset represent a snapshot of executive and leadership "health" within a large organization. It tracks the intersection of Technical Competence (TOEIC, CISI), Strategic Assessment (PBest, SLC), and Demographic Risk (Retirement Date).
+This dataset represents a snapshot of executive and leadership "health" within a large organization. It tracks the intersection of Technical Competence (TOEIC, CISI), Strategic Assessment (PBest, SLC), and Demographic Risk (Retirement Date).
 
-As a analyst, I transformed this raw administrative log into a strategic roadmap for succession planning.
+As an analyst, I transformed this raw administrative log into a strategic roadmap for succession planning.
 
 
 ### 🔍 Key Insights & Storytelling Pillars 
-1. The Retirement Cliff (Urgencuy Analysis)
+1. The Retirement Cliff (Urgency Analysis)
 - the Data: "Tgl Pensiun" and "Status" Columns 
-- the Story: By calculating the gap between the current date and Tgl Pensiun, we can identify ciritcal leadership gaps. For instance, if the Direktur Utama or Key Commisiary are within a 2-year retirement window, the "Talent Cluster" adn "Assessment Rrsult
+- The Story: By calculating the gap between the current date and Tgl Pensiun, we can identify critical leadership gaps. For instance, if the Direktur Utama or Key Commisiary is within a 2-year retirement window, the "Talent Cluster" and "Assessment Result" columns become the primary focus for internal succession.
+
+2. Competency Compliance (The Certification Gap)
+- The Data: "Assessment Result", "Avg 3 Th", and "Talent Cluster"
+- The Story: Using "Avg 3 Th" (3-year average performance) against the "Talent Cluster" (Challenging Talent, Early Talent, Emerging Performers, 
+  High Flyer, High Performer, High Potential, Key Performer, Not Yet, Semi Potential
