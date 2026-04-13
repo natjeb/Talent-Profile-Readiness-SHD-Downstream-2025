@@ -18,6 +18,12 @@ As an analyst, I transformed this raw administrative log into a strategic roadma
 - The Story: By calculating the gap between the current date and Tgl Pensiun, we can identify critical leadership gaps. For instance, if the Direktur Utama or Key Commisiary is within a 2-year retirement window, the "Talent Cluster" and "Assessment Result" columns become the primary focus for internal succession.
 
 2. Competency Compliance (The Certification Gap)
+- The Data: "TOEIC", "CISI", and "Need TOEIC"
+
+3. Talent Segmentation (The 9-Box Matrix Equivalent)
 - The Data: "Assessment Result", "Avg 3 Th", and "Talent Cluster"
 - The Story: Using "Avg 3 Th" (3-year average performance) against the "Talent Cluster" (Challenging Talent, Early Talent, Emerging Performers, 
   High Flyer, High Performer, High Potential, Key Performer, Not Yet, Semi Potential, Solid Performers)
+
+4. The Language & Global Readiness Matrix
+
